@@ -4,8 +4,6 @@ A simple node auth built with Okta
 
 Clone repo
 
-# starting
-
 run `npm instal` in terminal
 
 run `npm start`
